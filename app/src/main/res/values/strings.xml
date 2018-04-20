@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StatusLayout</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading</string>
+    <string name="no_result">No result</string>
+    <string name="hidden">Hidden</string>
+    <string name="retry">Retry</string>
+</resources>
